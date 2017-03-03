@@ -1,0 +1,29 @@
+{
+  "name": "upload_qiniu",
+  "version": "1.0.0",
+  "description": "batch upload to qiniu",
+  "main": "index.js",
+  "dependencies": {
+    "qiniu": "^6.1.13"
+  },
+  "devDependencies": {
+    "qiniu": "^6.1.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "everywill",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everywill/upload_qiniu.git"
+  },
+  "keywords": [
+    "qiniu",
+    "upload"
+  ],
+  "bugs": {
+    "url": "https://github.com/everywill/upload_qiniu/issues"
+  },
+  "homepage": "https://github.com/everywill/upload_qiniu#readme"
+}
